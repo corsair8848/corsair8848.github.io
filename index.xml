@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AI Blog</title>
+    <title>Nonni AI Blog</title>
     <link>https://corsair8848.github.io/</link>
-    <description>Recent content on AI Blog</description>
+    <description>Recent content on Nonni AI Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Jun 2024 22:04:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 12:12:00 +0800</lastBuildDate>
     <atom:link href="https://corsair8848.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>HelloAI</title>
+      <title>AI的学习方法和职业规划</title>
+      <link>https://corsair8848.github.io/post/ai%E7%9A%84%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%E5%92%8C%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92/</link>
+      <pubDate>Thu, 27 Jun 2024 12:12:00 +0800</pubDate>
+      <guid>https://corsair8848.github.io/post/ai%E7%9A%84%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95%E5%92%8C%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92/</guid>
+      <description>人工智能（Artificial Intelligence）的学习方法和职业规划 掌握Python编程：作为AI领域的通用编程语言，Python是必须掌握的。你可以通过在线课程或自学来学习Python。 数学基础：深度学习和机器学习需要一些数学基础，包括线性代数、微积分和概率论。你可以通过自学或参加相关课程来补充这些知识。 机器学习和深度学习：学习机器学习算法，如线性回归、逻辑回归、决策树、卷积神经网络（CNN）等。同时，了解深度学习的基本概念，如神经网络、梯度下降和反向传播。 选择方向：AI领域有多个方向，如计算机视觉（CV）和自然语言处理（NLP）。根据兴趣和目标选择一个方向，并深入研究相关领域的论文和项目。 实战项目：动手实践是学习的关键。尝试解决一些实际问题，参与开源项目或者自己构建一些小项目。 跟踪最新论文：阅读最新的AI论文，关注顶级会议和期刊，如CVPR、ICCV、ACL等。 职业规划：根据自己的兴趣和技能，制定职业规划。考虑就业市场需求、新兴领域和个人发展目标。 </description>
+    </item>
+    <item>
+      <title>AI的发展历程</title>
       <link>https://corsair8848.github.io/post/helloai/</link>
       <pubDate>Tue, 25 Jun 2024 22:04:00 +0800</pubDate>
       <guid>https://corsair8848.github.io/post/helloai/</guid>
-      <description>Hello AI a b c </description>
+      <description>人工智能（Artificial Intelligence）的发展历程 起步发展期（1956年—20世纪60年代初）： 1956年，科学家们在美国达特茅斯学院首次提出了“人工智能”（Artificial Intelligence，简称AI）这一概念，标志着人工智能学科的诞生。 在这个阶段，人工智能取得了一些令人瞩目的研究成果，如机器定理证明和跳棋程序，掀起了人工智能发展的第一个高潮。 反思发展期（20世纪60年代—70年代初）： 人工智能发展初期的突破性进展大大提升了人们对人工智能的期望。 然而，接二连三的失败和预期目标的落空使人工智能的发展走入低谷。 应用发展期（20世纪70年代初—80年代中）： 20世纪70年代，专家系统开始模拟人类专家的知识和经验，解决特定领域的问题，推动人工智能走向实际应用。 专家系统在医疗、化学、地质等领域取得成功，成为人工智能应用发展的新高潮。 稳步发展期（20世纪90年代中—2010年）： 网络技术和互联网的发展加速了人工智能的创新研究，使人工智能技术进一步走向实用化。 1997年，IBM的深蓝超级计算机战胜了国际象棋世界冠军卡斯帕罗夫，标志着这一时期的标志性事件。 蓬勃发展期（2011年至今）： 大数据、云计算、物联网等信息技术的发展推动以深度神经网络为代表的人工智能技术飞速发展。 图像分类、语音识别、知识问答、无人驾驶等领域实现了从“不能用、不好用”到“可以用”的技术突破。 </description>
     </item>
   </channel>
 </rss>
